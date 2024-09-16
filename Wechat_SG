@@ -1,0 +1,13 @@
+# wechat
+# Singapore
+
+IP-CIDR,43.134.103.88/32,no-resolve
+IP-CIDR,43.134.121.110/32,no-resolve
+IP-CIDR,43.156.222.0/24,no-resolve
+IP-CIDR,43.156.223.202/32,no-resolve
+IP-CIDR,43.156.255.184/32,no-resolve
+IP-CIDR,43.160.144.0/24,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.32.133.0/24,no-resolve
+IP-CIDR,101.32.139.217,no-resolve
+IP-CIDR,101.33.110.87,no-resolve
