@@ -4,3 +4,4 @@
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,miele.com
 DOMAIN-SUFFIX,raikkonien.top
+IP-CIDR,39.174.164.19/25,no-resolve
