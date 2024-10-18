@@ -14,3 +14,6 @@ IP-CIDR,101.32.118.25/32,no-resolve
 IP-CIDR,101.32.133.0/24,no-resolve
 IP-CIDR,101.32.139.217/32,no-resolve
 IP-CIDR,101.33.110.87/32,no-resolve
+
+#naiixi
+DOMAIN-SUFFIX,naiixi.com
