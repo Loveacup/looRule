@@ -1,7 +1,4 @@
 #Custom Singapore
-#naiixi
-DOMAIN-SUFFIX,naiixi.com
-
 #Wechat
 DOMAIN-SUFFIX,sgminorshort.wechat.com
 DOMAIN-SUFFIX,sgshort.wechat.com
@@ -17,3 +14,4 @@ IP-CIDR,101.32.118.25/32,no-resolve
 IP-CIDR,101.32.133.0/24,no-resolve
 IP-CIDR,101.32.139.217/32,no-resolve
 IP-CIDR,101.33.110.87/32,no-resolve
+IP-CIDR,150.109.27.93/32,no-resolve
