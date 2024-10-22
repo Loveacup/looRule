@@ -17,3 +17,10 @@ IP-CIDR,101.32.133.0/24,no-resolve
 IP-CIDR,101.32.139.0/24,no-resolve
 IP-CIDR,101.33.110.0/24,no-resolve
 IP-CIDR,150.109.27.0/24,no-resolve
+
+#tiktok?
+DOMAIN-SUFFIX,roovza-launches.appsflyersdk.com
+DOMAIN-SUFFIX,vtrk.dv.tech
+DOMAIN-SUFFIX,api.snapkit.com
+IP-CIDR,23.204.147.0/24,no-resolve
+IP-CIDR,34.102.215.0/24,no-resolve
