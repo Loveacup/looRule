@@ -1,4 +1,9 @@
 #Custom Hong Kong
+#V3 API
+DOMAIN-SUFFIX,api.v36.cm
+DOMAIN-SUFFIX,api.v3.cm
+
+
 # Wechat
 DOMAIN-SUFFIX,wecom.work
 IP-CIDR,43.128.17.181/32,no-resolve
