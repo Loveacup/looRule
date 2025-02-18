@@ -4,8 +4,11 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,Grok
 # 域名后缀匹配
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,jina.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,gstatic.com
