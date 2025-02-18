@@ -34,3 +34,5 @@ DOMAIN-SUFFIX,claude.ai.com
 # Apple News
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
+#paper
+DOMAIN-SUFFIX,nature.com
