@@ -1,6 +1,9 @@
 # 自定义
 # 直连
-
+#KQYY-Server
+IP-CIDR,66.5.0.0/24,no-resolve
+IP-CIDR,66.5.20.0/24,no-resolve
+IP-CIDR,66.5.21.0/24,no-resolve
 DOMAIN-SUFFIX,home-assistant.io
 DOMAIN-SUFFIX,miele.com
 DOMAIN-SUFFIX,raikkonien.top
