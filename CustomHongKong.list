@@ -1,7 +1,10 @@
 #Custom Hong Kong
 #V3 API
-DOMAIN-SUFFIX,api.v36.cm
+DOMAIN-SUFFIX,api.gpt.ge
 DOMAIN-SUFFIX,api.v3.cm
+
+#OaiPro API
+DOMAIN-SUFFIX,oaipro.com
 
 
 # Wechat
