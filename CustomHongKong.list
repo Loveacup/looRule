@@ -24,3 +24,5 @@ IP-CIDR,203.205.220.50/32,no-resolve
 
 #小众网站
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,makerworld.bblmw.com
+DOMAIN-SUFFIX,makerworld.com
