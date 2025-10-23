@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,api.v3.cm
 #OaiPro API
 DOMAIN-SUFFIX,oaipro.com
 
+#小众网站
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,makerworld.bblmw.com
+DOMAIN-SUFFIX,makerworld.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
 # Wechat
 DOMAIN-SUFFIX,wecom.work
 IP-CIDR,43.128.17.181/32,no-resolve
@@ -21,8 +27,3 @@ IP-CIDR,43.159.233.159/32,no-resolve
 IP-CIDR,43.159.235.0/24,no-resolve
 IP-CIDR,124.156.190.0/24,no-resolve
 IP-CIDR,203.205.220.50/32,no-resolve
-
-#小众网站
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,makerworld.bblmw.com
-DOMAIN-SUFFIX,makerworld.com
