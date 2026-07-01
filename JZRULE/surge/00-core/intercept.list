@@ -1,0 +1,7 @@
+# NAME: JZRULE Custom Intercept
+# UPDATED: 2026-07-01
+# POLICY: 🛑 广告拦截
+# MIGRATED-FROM: CustomIntercept.list
+
+#Custom Intercept
+DOMAIN-SUFFIX, msmp.abchina.com.cn

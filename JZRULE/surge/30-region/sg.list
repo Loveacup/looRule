@@ -1,0 +1,35 @@
+# NAME: JZRULE Singapore
+# UPDATED: 2026-07-01
+# POLICY: 🇸🇬 新加坡优选
+# MIGRATED-FROM: CustomSingapore.list
+
+#Custom Singapore
+#Wechat
+DOMAIN-SUFFIX,sgminorshort.wechat.com
+DOMAIN-SUFFIX,sgshort.wechat.com
+DOMAIN-SUFFIX,sglong.wechat.com
+IP-CIDR,43.134.103.0/24,no-resolve
+IP-CIDR,43.134.121.0/24,no-resolve
+IP-CIDR,43.156.222.0/24,no-resolve
+IP-CIDR,43.156.223.0/24,no-resolve
+IP-CIDR,43.156.255.0/24,no-resolve
+IP-CIDR,43.159.26.0/24,no-resolve
+IP-CIDR,43.160.144.0/24,no-resolve
+IP-CIDR,43.175.45.0/24,no-resolve
+IP-CIDR,101.32.113.0/24,no-resolve
+IP-CIDR,101.32.118.0/24,no-resolve
+IP-CIDR,101.32.133.0/24,no-resolve
+IP-CIDR,101.32.139.0/24,no-resolve
+IP-CIDR,101.33.110.0/24,no-resolve
+IP-CIDR,150.109.27.0/24,no-resolve
+
+#tiktok?
+DOMAIN-SUFFIX,roovza-launches.appsflyersdk.com
+DOMAIN-SUFFIX,vtrk.dv.tech
+DOMAIN-SUFFIX,api.snapkit.com
+IP-CIDR,23.204.147.0/24,no-resolve
+IP-CIDR,34.102.215.0/24,no-resolve
+
+#other
+DOMAIN-SUFFIX,oaipro.com
+DOMAIN-SUFFIX,v2rayssr.com

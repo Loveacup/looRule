@@ -12,3 +12,16 @@ RULE-SET,https://raw.githubusercontent.com/Loveacup/looRule/main/JZRULE/surge/20
 Do not put local-only process paths, private LAN routes, or DoH egress IP locks
 here. Those stay in the main Surge profile.
 
+## Legacy Custom Migration
+
+Root-level `Custom*.list` files are retained untouched for history and compatibility. Active Surge references should use these JZRULE files instead:
+
+- `00-core/custom-direct.list` -> `🎯 全球直连`
+- `00-core/intercept.list` -> `🛑 广告拦截`
+- `30-region/hk.list` -> `🇭🇰 香港优选`
+- `30-region/sg.list` -> `🇸🇬 新加坡优选`
+- `30-region/jp.list` -> `🇯🇵 日本优选`
+- `30-region/us.list` -> `🌎 北美核心`
+- `90-temp/custom-gfw.list` -> `🚀 手动选择2`
+
+Keep local-only process paths, DEVICE routes, and temporary household diagnostics in the main Surge profile, not in this repo.
