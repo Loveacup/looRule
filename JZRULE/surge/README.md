@@ -23,7 +23,15 @@ Root-level `Custom*.list` files are retained untouched for history and compatibi
 - `30-region/jp.list` -> `🇯🇵 日本优选`
 - `30-region/us.list` -> `🌎 北美核心`
 - `00-core/proxy.list` -> `🚀 手动选择2`
+- `45-security/cloudflare-challenge.list` -> `🛡️ CF 验证`
 
 `90-temp/custom-gfw.list` is no longer active; remaining proxy-only exceptions live in `00-core/proxy.list`.
+
+## Security / Challenge Rules
+
+`45-security/cloudflare-challenge.list` is intentionally targeted. It contains
+the official Turnstile host and recurring target sites. If broad Cloudflare
+infrastructure routing is needed, import a maintained upstream Cloudflare ruleset
+from the active Surge profile instead of copying CDN/IP ranges into this file.
 
 Keep local-only process paths, DEVICE routes, and temporary household diagnostics in the main Surge profile, not in this repo.

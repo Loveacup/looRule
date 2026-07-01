@@ -8,6 +8,7 @@
 | `surge/10-ai/core.list` | `✴️ Ai` | Strict Claude Code / Codex / Gemini local gaps |
 | `surge/20-dev/devtools.list` | `🚀 手动选择1` or future DevTools | Development helper domains and package registries |
 | `surge/20-tools/productivity.list` | `🧰 生产力工具` | Generic AI, creative, productivity, and collaboration tools |
+| `surge/45-security/cloudflare-challenge.list` | `🛡️ CF 验证` | Targeted Cloudflare human-verification / Turnstile problem sites |
 | `surge/30-region/jp.list` | `🇯🇵 日本优选` | Japan-only regional exceptions |
 | `surge/30-region/tw.list` | `🇼🇸 台湾优选` | Taiwan regional exceptions |
 | `surge/30-region/sg.list` | `🇸🇬 新加坡优选` | Migrated legacy `CustomSingapore.list` without touching the root file |
@@ -20,4 +21,3 @@
 Last updated: 2026-07-01.
 
 Migration note: root `Custom*.list` files are retained untouched for compatibility/history; active Surge references should use `JZRULE/surge/...`.
-

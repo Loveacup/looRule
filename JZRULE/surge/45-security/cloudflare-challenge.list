@@ -1,0 +1,16 @@
+# NAME: JZRULE Cloudflare Challenge
+# PURPOSE: Targeted Cloudflare human-verification / Turnstile routing.
+# POLICY: Bind to 🛡️ CF 验证 in the active Surge profile.
+#
+# Method:
+# - challenges.cloudflare.com is the official Turnstile script / iframe host.
+# - Cloudflare JavaScript Detections and PAT requests often run on the target
+#   site's own /cdn-cgi/challenge-platform/... path, so recurring target sites
+#   must be listed here explicitly.
+# - The active Surge profile may additionally import blackmatrix7's full
+#   Cloudflare ruleset as a broad infrastructure fallback.
+
+DOMAIN,challenges.cloudflare.com
+
+# ZR reference seed: previously pinned to a dedicated Oregon exit.
+DOMAIN-SUFFIX,folo.is
