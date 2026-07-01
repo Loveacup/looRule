@@ -8,3 +8,10 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,ai.google.dev
 
+# Claude Code / OTel observability backend: broad Datadog coverage
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,datadoghq.eu
+DOMAIN-SUFFIX,ddog-gov.com
+DOMAIN-SUFFIX,datadog.com
+DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
