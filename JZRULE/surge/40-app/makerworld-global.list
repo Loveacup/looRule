@@ -1,0 +1,7 @@
+# NAME: JZRULE MakerWorld Global
+# UPDATED: 2026-07-01
+# POLICY: 🌐 全球常规可用
+
+DOMAIN-SUFFIX,makerworld.com
+DOMAIN-SUFFIX,makerworld.bblmw.com
+

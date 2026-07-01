@@ -1,0 +1,8 @@
+# NAME: JZRULE Japan
+# UPDATED: 2026-07-01
+# POLICY: 🇯🇵 日本优选
+
+DOMAIN-SUFFIX,arjtty.cn
+DOMAIN-SUFFIX,new.pwmyjg.cn
+DOMAIN-SUFFIX,ocsp.godaddy.com
+

@@ -1,0 +1,10 @@
+# NAME: JZRULE Direct
+# UPDATED: 2026-07-01
+# POLICY: DIRECT / 🎯 全球直连
+
+DOMAIN-SUFFIX,typeless-static.com
+DOMAIN-SUFFIX,typeless.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,blip.net
+DOMAIN-SUFFIX,deepseek.com
+
