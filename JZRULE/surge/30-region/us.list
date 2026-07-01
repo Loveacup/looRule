@@ -1,43 +1,16 @@
 # NAME: JZRULE North America
 # UPDATED: 2026-07-01
 # POLICY: 🌎 北美核心
+#
+# Regional / North-America-specific exceptions only.
+# Generic productivity and developer tools were moved to 20-tools/productivity.list
+# or 20-dev/devtools.list on 2026-07-01.
 
 DOMAIN-SUFFIX,tktn.be
 
 # MIGRATED-FROM: CustomUnitedStates.list
-#United States
-# 域名后缀匹配
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,raycast.com
-DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,nature.com
-DOMAIN-SUFFIX,tello.com
 DOMAIN-SUFFIX,asu.edu
-DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,evus.gov
-DOMAIN-SUFFIX,printables.com
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,tripo3d.ai
-DOMAIN-SUFFIX,gamma.app
-DOMAIN-SUFFIX,brave.com
-DOMAIN-SUFFIX,typeform.com
 DOMAIN-SUFFIX,truthsocial.com
-DOMAIN-SUFFIX,brew.sh
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,slack-core.com
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack-files.com
-DOMAIN-SUFFIX,slack-imgs.com
-DOMAIN-SUFFIX,slack-msgs.com
-DOMAIN-SUFFIX,slack-redir.net
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slackb.com
-DOMAIN-SUFFIX,slackcertified.com
-DOMAIN-SUFFIX,slackdemo.com
-DOMAIN-SUFFIX,slackhq.com
-DOMAIN-SUFFIX,astral.sh
-DOMAIN-SUFFIX,npmjs.org
-DOMAIN-SUFFIX,pythonhosted.org

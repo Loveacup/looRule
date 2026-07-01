@@ -1,0 +1,7 @@
+# NAME: JZRULE Proxy Overrides
+# UPDATED: 2026-07-01
+# POLICY: 🚀 手动选择2
+# MIGRATED-FROM: JZRULE/surge/90-temp/custom-gfw.list
+
+DOMAIN-SUFFIX,shuzijumin.com
+DOMAIN-SUFFIX,missav.live

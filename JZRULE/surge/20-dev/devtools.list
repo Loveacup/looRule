@@ -5,3 +5,10 @@
 DOMAIN,nxonearth.com
 DOMAIN-SUFFIX,1password.com
 
+
+# MIGRATED-FROM: JZRULE/surge/30-region/us.list
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,astral.sh
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,pythonhosted.org

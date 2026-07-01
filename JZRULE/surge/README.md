@@ -22,6 +22,8 @@ Root-level `Custom*.list` files are retained untouched for history and compatibi
 - `30-region/sg.list` -> `🇸🇬 新加坡优选`
 - `30-region/jp.list` -> `🇯🇵 日本优选`
 - `30-region/us.list` -> `🌎 北美核心`
-- `90-temp/custom-gfw.list` -> `🚀 手动选择2`
+- `00-core/proxy.list` -> `🚀 手动选择2`
+
+`90-temp/custom-gfw.list` is no longer active; remaining proxy-only exceptions live in `00-core/proxy.list`.
 
 Keep local-only process paths, DEVICE routes, and temporary household diagnostics in the main Surge profile, not in this repo.

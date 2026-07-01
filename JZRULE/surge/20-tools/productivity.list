@@ -13,3 +13,24 @@ DOMAIN-SUFFIX,tripo3d.ai
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,tello.com
 
+
+# MIGRATED-FROM: JZRULE/surge/30-region/us.list and 90-temp/custom-gfw.list
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,printables.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,typeform.com
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slackcertified.com
+DOMAIN-SUFFIX,slackdemo.com
+DOMAIN-SUFFIX,slackhq.com
+DOMAIN-SUFFIX,cherry-ai.com
