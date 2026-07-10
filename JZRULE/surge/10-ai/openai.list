@@ -1,0 +1,7 @@
+# NAME: JZRULE OpenAI Strict
+# UPDATED: 2026-07-11
+# POLICY: 🅾️ OpenAI
+# SCOPE: OpenAI API / ChatGPT / Codex.
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com

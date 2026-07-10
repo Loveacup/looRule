@@ -1,0 +1,9 @@
+# NAME: JZRULE Gemini Strict
+# UPDATED: 2026-07-11
+# POLICY: ❇️ Gemini
+# SCOPE: Gemini / AI Studio / Generative Language API.
+
+DOMAIN,gemini.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,ai.google.dev

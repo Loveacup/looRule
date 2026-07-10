@@ -1,0 +1,15 @@
+# NAME: JZRULE Anthropic Strict
+# UPDATED: 2026-07-11
+# POLICY: ✴️ Anthropic
+# SCOPE: Claude / Claude Code / Anthropic API and strict telemetry.
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# Claude Code / OTel observability backend: intentionally broad.
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,datadoghq.eu
+DOMAIN-SUFFIX,ddog-gov.com
+DOMAIN-SUFFIX,datadog.com
+DOMAIN-SUFFIX,datadoghq-browser-agent.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
