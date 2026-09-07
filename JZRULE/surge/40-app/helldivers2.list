@@ -1,0 +1,10 @@
+# NAME: JZRULE Helldivers 2
+# UPDATED: 2026-09-07
+# POLICY: 🎮 Steam
+# User-provided domain scope; shared cloud suffixes also cover other applications.
+# steamserver.net is intentionally excluded: the earlier direct.list keeps it DIRECT.
+DOMAIN-WILDCARD,*.thehelldiversgame.com
+DOMAIN-WILDCARD,*.playfabapi.com
+DOMAIN-SUFFIX,cloudapp.azure.com
+DOMAIN-SUFFIX,mgr.gameguard.co.kr
+DOMAIN-SUFFIX,service.signalr.net
