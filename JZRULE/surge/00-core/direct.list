@@ -1,5 +1,5 @@
 # NAME: JZRULE Direct
-# UPDATED: 2026-07-01
+# UPDATED: 2026-09-07
 # POLICY: DIRECT / 🎯 全球直连
 
 DOMAIN-SUFFIX,typeless-static.com
@@ -8,3 +8,26 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,blip.net
 DOMAIN-SUFFIX,deepseek.com
 
+# Steam downloads and connection servers: keep independent of the Steam select group.
+# Sources:
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/SteamCN/SteamCN.list
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Game/GameDownload/GameDownload.list
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Surge/Steam/Steam.list
+# Store, API and community pages remain under the existing Steam rules.
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steam.ru.qtlglb.com
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamusercontent-a.akamaihd.net
+# These Steam-specific CDN suffixes can also serve assets; do not widen to shared CDN parents.
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
